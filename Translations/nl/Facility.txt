@@ -16,19 +16,19 @@ INVENTARIS OVERBELAST
 M. GEVOELIGHEID
 HACKEN
 OPPAKKEN...
-De helderheid verhoogen <b>verslechtert de stemming</b> van het spel.\nProbeer deze waarde zo laag mogelijk te houden.\n<b> Het is aangeraden om het op de standaard waarde te laten staan.</b>
+De helderheid verhogen <b>verslechtert de stemming</b> van het spel.\nProbeer deze waarde zo laag mogelijk te houden.\n<b> Het is aangeraden om het op de standaard waarde te laten staan.</b>
 [1] OPEN/SLUIT DEUR\n[2] DEUR VERGRENDELEN*\n\n*Het vergrendelen van de deur maakt gebruik van speciale vaardigheid
 DEUR IS VERGRENDELD DOOR SCP-079
 Volledig scherm
 Weet je zeker dat je die server wilt verlaten?
-Basis instelling. Volledige lijst van instellingen zijn in het hoofd menu.
+Basis instelling. Volledige lijst van instellingen is in het hoofd menu.
 WACHTEN OP SPELERS
 SAMENVATTING
 DOORGAAN
 HOOFD VOLUME
 verbonden
-Je bent als Wetenschapper ontsnapt en je deelt nu mee aan de MTF taskforce.
-Je bent ontsnapt as de D-Klasse Personeel en neemt nu deel aan de Chaos Insurgency.
+Je bent als Wetenschapper ontsnapt en je neemt nu deel aan de MTF taskforce.
+Je bent ontsnapt als D-Klasse Personeel en neemt nu deel aan de Chaos Insurgency.
 JE BENT EEN
 Ontsnappings tijd: [escape_minutes] minuten en [escape_seconds] seconden
 Wacht [time] voordat je [item] weer kan gebruiken.
