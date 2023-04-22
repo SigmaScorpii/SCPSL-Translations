@@ -25,6 +25,6 @@ Klap:Valt een mens aan en doet een gemiddeld hoeveelheid schade.
 Open/Sluit Deuren:Je kunt een deur openen/sluiten door erop te klikken, ten koste van 5 AP. Je kunt deuren ook vergrendelen, waardoor je AP constant omlaag gaat. Maar iedereen tegenhoudt deuren te openen of sluiten tot je AP op is of je het zelf ontgrendelt.
 Tesla Overbelasting:Je kunt een Tesla Gate voor 50 AP onmiddellijk aanzetten, waardoor alle spelers die erin zitten dood gaan.
 Lockdown:Vanaf Access Level 2 kun je in sommige kamers een lockdown aanzetten, waardoor alle lampen en deuren tijdelijk uitgaan. Spelers kunnen in het donker SCP-173 niet zien.
-Vrijwel Onverwoestbaar: Vijf generatoren zijn te vinden in Heavy Containment Zone. Als ze allemaal aangezet worden, ga je dood.\nGeneratoren hebben een timer, en alle spelers kunnen een generator uitzetten door op "CANCEL" te drukken voordat hij aanstaat.
+Vrijwel Onverwoestbaar: Drie generatoren zijn te vinden in Heavy Containment Zone. Als ze allemaal aangezet worden, ga je dood.\nGeneratoren hebben een timer, en alle spelers kunnen een generator uitzetten door op "CANCEL" te drukken voordat hij aanstaat.
 Nek Breker:Hou ingedrukt of klik op een mens zijn nek, waardoor zij onmiddellijk doodgaan wanneer zij je niet zien of knipperen met hun ogen.
-Aanval (Rage):Laat ze niet ontsnappen! Je gaat in een raket vooruit, waarmee je alles wat in je weg staat vernietigt. Als je een dikke deur tegenkomt, zoals in SCP-914, forceer je jezelf er doorheen.
+Aanval (Rage):Laat ze niet ontsnappen! Je gaat als een raket vooruit, waarmee je alles wat in je weg staat vernietigt. Als je een dikke deur tegenkomt, zoals in SCP-914, forceer je jezelf er doorheen.
